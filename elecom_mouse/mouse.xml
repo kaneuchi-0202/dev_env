@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<data>
+    <vid>1390</vid>
+    <pid>255</pid>
+    <rev>0</rev>
+    <select_profile>0</select_profile>
+    <profile>
+        <profname>デフォルト</profname>
+        <lbutton>1</lbutton>
+        <lbutton_etcKey></lbutton_etcKey>
+        <rbutton>2</rbutton>
+        <rbutton_etcKey></rbutton_etcKey>
+        <tbutton>5</tbutton>
+        <tbutton_etcKey></tbutton_etcKey>
+        <button4>3</button4>
+        <button4_etcKey></button4_etcKey>
+        <button5>4</button5>
+        <button5_etcKey></button5_etcKey>
+        <scrolls>4</scrolls>
+        <tiltleft>37</tiltleft>
+        <tiltleft_etcKey>↓</tiltleft_etcKey>
+        <tiltright>37</tiltright>
+        <tiltright_etcKey>↑</tiltright_etcKey>
+        <hspeed>6</hspeed>
+        <hlotate>7</hlotate>
+        <hcount>3</hcount>
+        <button6>37</button6>
+        <button6_etcKey>左Ctrl+W</button6_etcKey>
+        <button7>16</button7>
+        <button7_etcKey></button7_etcKey>
+        <button8>22</button8>
+        <button8_etcKey></button8_etcKey>
+        <button9>55</button9>
+        <button9_etcKey></button9_etcKey>
+        <button10>56</button10>
+        <button10_etcKey></button10_etcKey>
+        <button11>63</button11>
+        <button11_etcKey></button11_etcKey>
+        <button12>62</button12>
+        <button12_etcKey></button12_etcKey>
+        <button13>64</button13>
+        <button13_etcKey></button13_etcKey>
+    </profile>
+</data>
