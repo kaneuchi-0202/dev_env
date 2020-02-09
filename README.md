@@ -11,3 +11,5 @@
 - vscode
 - Explzh
 - Chrome IME
+- Excelリラックスツール
+- Excel自作ツール
